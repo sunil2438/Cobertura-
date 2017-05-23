@@ -10,7 +10,7 @@
   <groupId>org.codehaus.mojo.test</groupId>
   <artifactId>cobertura-test-prep</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.2</version>
 
   <name>Test Prep Project for Maven Cobertura Plugin</name>
 
